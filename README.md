@@ -7,3 +7,7 @@
 ## peerjs
 
 ## nodemon
+
+## heroku
+
+### use "heroku open" in CLI to get the lURL to use the App
