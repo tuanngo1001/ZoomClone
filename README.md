@@ -10,4 +10,4 @@
 
 ## heroku
 
-### use "heroku open" in CLI to get the lURL to use the App
+### use "heroku open" in CLI to get the URL to use the App
